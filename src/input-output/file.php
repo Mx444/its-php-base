@@ -19,5 +19,5 @@ fclose($newfile);
 echo "File written successfully!";
 
 $readfile = fopen($file, 'r') or die("Unable to open file!");
-echo fgets($readfile) . "<br>";
+echo fread($readfile, filesize($file));
 fclose($readfile);
