@@ -17,3 +17,7 @@ STR;
 fwrite($newfile, $str) or die("Unable to write to file!");
 fclose($newfile);
 echo "File written successfully!";
+
+$readfile = fopen($file, 'r') or die("Unable to open file!");
+echo fgets($readfile) . "<br>";
+fclose($readfile);
