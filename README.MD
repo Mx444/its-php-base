@@ -1,85 +1,32 @@
-# PHP Basic Exercises - ITS Steve Jobs Academy
+<p align="center">
+  <img src="https://i.imgur.com/oxaVJiK.png" alt="ITS Steve Jobs Academy Logo" width="180">
+</p>
 
-This repository contains a collection of PHP programming exercises developed during the course at the ITS Steve Jobs Academy. The exercises cover various aspects of PHP programming, from basics to more advanced concepts.
+# ITS Steve Jobs Academy – Exercise Repository
 
-## Repository Structure
+This repository contains exercises, examples, or projects developed in the context of [ITS Steve Jobs Academy](https://www.stevejobs.academy/).
 
-The repository is organized into thematic folders:
+## About
 
-- **basic-syntax/**: PHP language fundamentals
-  - Basic constructs (echo, print)
-  - Variables and data types
-  - Comments and documentation
-  - Hello World and first scripts
+- The contents of this repository include practical tasks, code samples, or experiments on various topics.
+- Each repository may cover different technologies or subjects.
 
-- **input-output/**: Input/output operations
-  - Reading and writing files
-  - User input handling
-  - Text file manipulation
-  - File uploading
+## How to Use
 
-- **operators/**: Operators in PHP
-  - Arithmetic operators
-  - Assignment operators
-  - Comparison operators
-  - Conditional operators
-
-- **script-webpage/**: PHP integration in web pages
-  - Embedding PHP in HTML
-  - Dynamic content generation
-  - Forms and data handling
-  - Sessions and cookies
-
-## How to Use the Exercises
-
-Each file contains a complete PHP program that can be executed separately. To run an exercise, use the command:
-
-```bash
-php path/to/file.php
-```
-
-For web examples, place the files on your local web server and access them through your browser.
-
-## Exercise Examples
-
-### Basic Syntax
-
-```php
-// Basic output
-// Variable declaration
-// Using comments
-```
-
-### Input/Output Operations
-
-```php
-// Reading files
-// Writing to files
-// Handling user input
-```
-
-### Operators
-
-```php
-// Mathematical calculations
-// Value comparison
-// Conditional expressions
-```
-
-## Educational Objectives
-
-These exercises were designed to:
-- Understand the fundamental concepts of PHP programming
-- Develop problem-solving skills
-- Apply common algorithms in practical contexts
-- Improve the ability to write clean and well-structured code
+1. **Clone the repository**:
+    ```bash
+    git clone <repository-link>
+    ```
+2. **Open the files** with your preferred editor or required software.
+3. **Follow any instructions** or comments provided in the files.
 
 ## Requirements
 
-- Web server with PHP support (XAMPP, WAMP, or similar recommended)
-- Basic knowledge of PHP syntax
-- Text editor or IDE for PHP
+- A computer with the necessary software/tools for the specific materials in this repository.
+- (Optional) Refer to the documentation or code comments for any additional setup.
 
 ---
 
-*This repository was created as part of the educational journey at ITS Steve Jobs Academy.*
+<p align="center">
+  <b>ITS Steve Jobs Academy – Exercises and Projects</b>
+</p>
